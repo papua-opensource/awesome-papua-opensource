@@ -20,7 +20,7 @@ Dengan berkontribusi atau memulai proyek Anda sendiri, Anda dapat membantu menci
 
 >Kategori "Budaya" menyoroti proyek open source yang melestarikan dan mengangkat budaya Papua, meliputi digitalisasi bahasa lokal, seni tradisional, dan dokumentasi sejarah. Ini adalah upaya penting untuk menjaga warisan Papua dan memperkaya pemahaman kita tentang keunikan budayanya.
 
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Keterangan                                                        |
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Keterangan                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [Kastau Terjemahan](https://kastauterjemahan.web.id/)                                                              | Aplikasi terjemahan untuk seluruh Bahasa Daerah di Papua, Dibuat dengan tujuan melestarikan bahasa daerah setiap suku di Tanah Papua.       |
 
