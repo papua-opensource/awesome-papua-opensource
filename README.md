@@ -22,7 +22,7 @@ Dengan berkontribusi atau memulai proyek Anda sendiri, Anda dapat membantu menci
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Keterangan                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [Kastau Terjemahan](https://kastauterjemahan.web.id/)                                                              | Website terjemahan untuk seluruh Bahasa Daerah di Papua, Dibuat dengan tujuan melestarikan bahasa daerah setiap suku di Tanah Papua.       |
+| [Dapoer Papoea](https://dapoerpapoea.web.id/)                                                              | Website kumpulan resep masakan tradisional khas Papua, mulai dari masakan papeda hingga kue-kue dan sambal, serta panduan makanan lainnya untuk keluarga Anda.       |
 | [Kastau Muzik](https://kastaumuzik.com/)                                                              | Website yang menampung semua lagu daerah Papua dalam satu platform agar mudah ditemui, didengarkan, dan dilestarikan.       |
 | [Mops](https://mops.id/)                                                              | Website yang mengumpulkan dan menyebarluaskan "mop" — istilah lokal Papua untuk cerita lucu, banyolan, atau kisah ringan yang sering diceritakan dalam dialek Papua.       |
 
