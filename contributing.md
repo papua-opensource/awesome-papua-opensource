@@ -1,3 +1,0 @@
-# Panduan Kontribusi
-
-*coming soon*
